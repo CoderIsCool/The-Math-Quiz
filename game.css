@@ -1,0 +1,38 @@
+body
+{
+	background-color: goldenrod;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	border:khaki;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgba(255, 255, 255, 0.719);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background:peru;
+border-radius: 10px;
+border-top: 10px solid #ffd000;
+padding: 10px;
+float: none;
+text-align: left;
+}
